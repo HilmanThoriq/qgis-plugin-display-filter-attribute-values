@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/DisplayFilterAttributeValue" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
